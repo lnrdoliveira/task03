@@ -16,6 +16,18 @@ namespace Controle{
 
             System.Console.WriteLine("Dados do produto: "+p);
             System.Console.WriteLine("");
+            System.Console.Write("Digite a quantidade de produtos a serem adicionados: ");
+            int qte = int.Parse(Console.ReadLine());
+            p.AdicionarProdutos(qte);
+            System.Console.WriteLine("");
+            System.Console.WriteLine("Dados atualizados: "+p);
+            System.Console.WriteLine("");
+            System.Console.Write("Digite a quantidade de produtos a serem removidos: ");
+            qte = int.Parse(Console.ReadLine());
+            p.RemoverProdutos(qte);
+            System.Console.WriteLine("Dados atualizados: "+p);
+
+
         }
     }
 }
