@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-
+using System.Globalization;
 namespace task03
 {
     public class Produto
@@ -19,6 +19,10 @@ namespace task03
         }
         public void RemoverProdutos(){
 
+        }
+
+        public override string ToString(){
+            return Nome.ToUpper() +", $"+Preco.ToString("F2", CultureInfo.InvariantCulture)+", "+Quantidade+" unidades, Total: $" + ValorTotalEmEstoque().ToString("F2", CultureInfo.InvariantCulture);
         }
     }
 }

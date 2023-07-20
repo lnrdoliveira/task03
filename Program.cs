@@ -14,6 +14,7 @@ namespace Controle{
             System.Console.Write("Quantidade no estoque: ");
             p.Quantidade = int.Parse(Console.ReadLine());
 
+            System.Console.WriteLine("Dados do produto: "+p);
         }
     }
 }

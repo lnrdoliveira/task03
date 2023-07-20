@@ -1,0 +1,15 @@
+D:\projetos\task03\bin\Debug\net7.0\task03.exe
+D:\projetos\task03\bin\Debug\net7.0\task03.deps.json
+D:\projetos\task03\bin\Debug\net7.0\task03.runtimeconfig.json
+D:\projetos\task03\bin\Debug\net7.0\task03.dll
+D:\projetos\task03\bin\Debug\net7.0\task03.pdb
+D:\projetos\task03\obj\Debug\net7.0\task03.csproj.AssemblyReference.cache
+D:\projetos\task03\obj\Debug\net7.0\task03.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\task03\obj\Debug\net7.0\task03.AssemblyInfoInputs.cache
+D:\projetos\task03\obj\Debug\net7.0\task03.AssemblyInfo.cs
+D:\projetos\task03\obj\Debug\net7.0\task03.csproj.CoreCompileInputs.cache
+D:\projetos\task03\obj\Debug\net7.0\task03.dll
+D:\projetos\task03\obj\Debug\net7.0\refint\task03.dll
+D:\projetos\task03\obj\Debug\net7.0\task03.pdb
+D:\projetos\task03\obj\Debug\net7.0\task03.genruntimeconfig.cache
+D:\projetos\task03\obj\Debug\net7.0\ref\task03.dll
