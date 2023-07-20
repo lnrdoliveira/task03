@@ -15,6 +15,7 @@ namespace Controle{
             p.Quantidade = int.Parse(Console.ReadLine());
 
             System.Console.WriteLine("Dados do produto: "+p);
+            System.Console.WriteLine("");
         }
     }
 }
